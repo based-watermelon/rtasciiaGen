@@ -1,4 +1,4 @@
-#!/media/mayur/1CB00223B002044C/Coding/Projects/Personal/rtasciia/venv/bin/python3
+#!/home/mayur/Coding/Projects/Personal/rtasciia/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
