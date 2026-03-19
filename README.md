@@ -2,6 +2,7 @@
 # rtasciiaGen
 
 ### ASCII Art generator
+##### Converts given Image into an Ascii art with adjustable scaliing factor
 
 ##### tutorial credit: Raphsonite
 ---
